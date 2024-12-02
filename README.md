@@ -24,16 +24,17 @@
    ```bash
    git clone https://github.com/your-username/othello-game.git
 2. クローンしたディレクトリに移動します：
+   
    cd othello-game
 3. ローカルサーバーを起動して、index.html をブラウザで開きます。
    
-##使い方
+## 使い方
 ゲームページをブラウザで開きます。
 プレイヤーは交互に盤面上でクリックして石を置いていきます。
 「リセット」ボタンを押すと、ゲームを最初から再開できます。
 
-##ライセンス
+## ライセンス
 このプロジェクトは MITライセンス の下で公開されています。
 
-##スクリーンショット
+## スクリーンショット
 ![image](https://github.com/user-attachments/assets/6a7bdc62-5a04-4376-b732-bf8697409d44)
