@@ -24,7 +24,7 @@
    ```bash
    git clone https://github.com/your-username/othello-game.git
 2. クローンしたディレクトリに移動します：
-   
+   ```bash
    cd othello-game
 3. ローカルサーバーを起動して、index.html をブラウザで開きます。
    
