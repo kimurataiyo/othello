@@ -37,4 +37,5 @@
 このプロジェクトは MITライセンス の下で公開されています。
 
 ## スクリーンショット
-![image](https://github.com/user-attachments/assets/6a7bdc62-5a04-4376-b732-bf8697409d44)
+![image](https://github.com/user-attachments/assets/5ed70d7f-f937-403d-9030-1b9c82b3cd2a)
+
